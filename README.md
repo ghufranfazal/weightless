@@ -1,4 +1,4 @@
-# 🤍 Weightless — Anonymous Indian Confession Page
+# 🤍 Weightless — Anonymous Indian Confession Website
 
 > Speak your heart without fear. No names. No logins. Just pure confessions.
 
